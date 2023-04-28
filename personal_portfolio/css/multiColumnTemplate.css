@@ -535,7 +535,7 @@ span{color: #000000; font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet M
 
 .container .left_article .container3{display: block; margin: auto;width: 80%;margin-top: auto;margin-bottom: auto;text-align: center;}
 
-.container .right_article img{float: right;}
+.container .right_article img{float: right; display: inline-block;}
 
 
 
